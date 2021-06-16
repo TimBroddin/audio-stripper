@@ -90,7 +90,7 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={styles.title}>Audio stripper</h1>
         <p className={styles.description}>
-          Strip audio from videos. Simple as that.
+          Remove audio from videos. Simple as that.
         </p>
 
         <div className={styles.button}>
