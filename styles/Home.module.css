@@ -119,3 +119,34 @@
     flex-direction: column;
   }
 }
+
+.button { 
+  margin: 30px;
+}
+
+.button label {
+  color: #fff;
+    background-color: #f50057;
+    box-shadow: 0px 3px 1px -2px rgb(0 0 0 / 20%), 0px 2px 2px 0px rgb(0 0 0 / 14%), 0px 1px 5px 0px rgb(0 0 0 / 12%);
+    padding: 6px 16px;
+    font-size: 0.875rem;
+    min-width: 64px;
+}
+
+.button input {
+  display: none;
+}
+
+.log {
+  width: 100%;
+  margin: 30px;
+  min-height: 100px;
+}
+
+.video {
+  max-width: 300px;
+}
+
+.checkbox {
+  margin: 30px 0px;
+}
